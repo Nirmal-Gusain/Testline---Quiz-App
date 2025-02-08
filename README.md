@@ -14,4 +14,7 @@ Screenshots
 
 
 video
-![Watch Demo](/public/Screenshots/Testline_%20Practice%20&%20Revise%20in%2010%20Min%20-%20Google%20Chrome%202025-02-08%2018-39-43.mp4)
+[Watch the video](https://github.com/Nirmal-Gusain/Testline---Quiz-App/blob/main/public/Screenshots/Testline_%20Practice%20%26%20Revise%20in%2010%20Min%20-%20Google%20Chrome%202025-02-08%2018-39-43.mp4)
+
+
+
