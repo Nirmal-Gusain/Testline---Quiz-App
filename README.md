@@ -13,5 +13,5 @@ Screenshots
 ![Quiz App Screenshot](/public/Screenshots/Screenshot%203.png)
 
 
-video Link:-
-https://www.loom.com/share/0aa1292eaa6c4fc08bd389ebb23fa7ca?sid=7c321e3f-43eb-4afc-896d-ce74ff79be29
+video
+[Watch Demo](https://www.loom.com/share/0aa1292eaa6c4fc08bd389ebb23fa7ca?sid=7c321e3f-43eb-4afc-896d-ce74ff79be29)
